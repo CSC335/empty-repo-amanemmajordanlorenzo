@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>empty-repo-amanemmajordanlorenzo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Documents/cardimages/blackcat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Documents/gitrepos/empty-repo-amanemmajordanlorenzo/Documents/cardimages/blackcat.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/calicocat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/calicocat.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/carcardback.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/carcardback.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/catcardback.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/catcardback.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/charger.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/charger (1).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/fordescort.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/fordescort.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/graycat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/graycat (1).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/mazda.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/mazda (3).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/moon.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/moon.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/orangecat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/orangecat.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/orangesupra.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/orangesupra (1).png-20240414T005727Z-001/orangesupra (1).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/saturn.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/saturn (1).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/siamesecat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/siamesecat.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/spacecardback.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/spacecardback.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/stingray.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/stingray (2).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/sukicar.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/sukicar (1).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/sun.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/sun (2).png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/venus.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/venus.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/welcomescreen.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Documents/gitrepos/empty-repo-amanemmajordanlorenzo/Documents/cardimages/welcomescreen.png</location>
+		</link>
+		<link>
+			<name>Documents/cardimages/whitegraycat.png</name>
+			<type>1</type>
+			<location>C:/Users/jorda/Downloads/drive-download-20240414T003805Z-001/whitegraycat.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
